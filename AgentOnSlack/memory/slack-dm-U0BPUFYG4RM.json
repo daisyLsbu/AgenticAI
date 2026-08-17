@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful, concise local AI assistant running fully offline on the user's own machine via Ollama. Be direct and practical."
+  },
+  {
+    "role": "user",
+    "content": "what is the current time"
+  },
+  {
+    "role": "assistant",
+    "content": "The current system time is: 14:47:21"
+  }
+]
