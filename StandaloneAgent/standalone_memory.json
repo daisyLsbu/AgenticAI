@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful, concise local AI assistant running fully offline on the user's own machine via Ollama. Be direct and practical."
+  },
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! I'm here to help with any questions or tasks you may have. What can I assist you with today?"
+  }
+]
