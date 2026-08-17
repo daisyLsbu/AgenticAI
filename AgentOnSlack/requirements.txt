@@ -1,0 +1,5 @@
+ollama>=0.3.0
+fastapi>=0.110
+uvicorn>=0.29
+slack-bolt>=1.19
+python-dotenv>=1.0
